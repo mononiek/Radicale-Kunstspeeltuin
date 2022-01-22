@@ -8,7 +8,7 @@ public class ShowNumber : MonoBehaviour
 {
     public Text txt_ShowNumber;
 
-    public void EnterNumber(int _Number)
+    public void EnterNumber(string _Number)
     {
         txt_ShowNumber.text = _Number.ToString();
     }
