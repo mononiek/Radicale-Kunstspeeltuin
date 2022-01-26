@@ -6,8 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class Restart : MonoBehaviour
 {
-    public void TryAgain()
+    public void Update()
     {
-        SceneManager.LoadScene("SampleScene");
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene("SampleScene");
+        }
     }
 }
