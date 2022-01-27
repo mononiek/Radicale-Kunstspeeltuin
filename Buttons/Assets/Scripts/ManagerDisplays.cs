@@ -12,8 +12,4 @@ public class ManagerDisplays : MonoBehaviour
         }
     }
 
-    void Update()
-    {
-        
-    }
 }
