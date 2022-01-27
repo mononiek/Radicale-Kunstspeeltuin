@@ -17,5 +17,5 @@ Het tweede idee die het die het geworden is was om een groot wit hoofd te maken 
 * [Ontwerpen](https://docs.google.com/document/d/1hxd7XWGe2bQAkZ5i091_K1QJZtqrlo9x/edit?usp=sharing&ouid=104646487791745958861&rtpof=true&sd=true)
 * [Onderzoek](https://docs.google.com/document/d/1GbMS0gBmMSKK8U3192w8cpnzokw2L1kF/edit?usp=sharing&ouid=104646487791745958861&rtpof=true&sd=true)
 * [Bronnenlijst](https://docs.google.com/document/d/1C-uObXlT8zry9Uoac7499NnW46Py7SOP/edit?usp=sharing&ouid=104646487791745958861&rtpof=true&sd=true)
-* [Testplan met testrapport)](https://docs.google.com/document/d/1j2_9yfPlDpaMw3XUkOAZWIATCJ7rW5_g/edit?usp=sharing&ouid=104646487791745958861&rtpof=true&sd=true)
+* [Testplan met testrapport](https://docs.google.com/document/d/1j2_9yfPlDpaMw3XUkOAZWIATCJ7rW5_g/edit?usp=sharing&ouid=104646487791745958861&rtpof=true&sd=true)
 * [Usertest](https://youtu.be/TZYTIcgUUHw)
